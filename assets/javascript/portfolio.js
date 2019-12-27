@@ -49,6 +49,11 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
                 name: 'ruooks',
                 link: '76561198195158973'
             },
+            
+             {
+                name: 'Kevinxh',
+                link: '76561198130697487'
+            },
 
         ];
          
