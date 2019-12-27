@@ -187,7 +187,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #F62459'>obnoxious.club $$$</i>"], 120, 500, function () {
+                    writeLine(["<i style='color: #F62459'>swindler.click $$$</i>"], 120, 500, function () {
 
                         timeouts.push(setTimeout(function () {
 
