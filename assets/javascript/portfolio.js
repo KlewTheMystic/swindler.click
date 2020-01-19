@@ -42,7 +42,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
         var links = [
             {
                 name: 'Mateyo',
-                link: '76561198995857709'
+                link: '76561198983159414'
             },
                 
             {
