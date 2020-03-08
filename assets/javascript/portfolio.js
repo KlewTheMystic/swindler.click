@@ -51,11 +51,6 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
             },
             
              {
-                name: 'Kevinxh',
-                link: '76561198130697487'
-            },
-            
-             {
                 name: 'Rognisz',
                 link: '76561198813612445'
             },
